@@ -1,4 +1,4 @@
-Hi, I’m @sslaia. I'm interested in writing some apps my community can use to preserve their mother tounge Nias, which is disappearing fast.
+Hi, I’m @sslaia. I'm interested in writing some apps my community can use to preserve their mother tongue Nias, which is disappearing fast.
 
 At the moment I'm learning Flutter and Python for that purpose.
 
